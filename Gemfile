@@ -30,8 +30,6 @@ gem "jbuilder"
 # Add gem to manage db
 gem 'yaml_db'
 
-gem 'rexml'
-
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
@@ -80,3 +78,4 @@ end
 
 gem 'brakeman'
 gem 'rubocop'
+gem 'seed_dump'
